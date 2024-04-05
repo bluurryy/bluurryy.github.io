@@ -1,1 +1,1 @@
-{"group_id":"try-alloc","function_id":"u32_aligned_down","value_str":null,"throughput":{"Elements":10000},"full_id":"try-alloc/u32_aligned_down","directory_name":"try-alloc/u32_aligned_down","title":"try-alloc/u32_aligned_down"}
+{"group_id":"try-alloc","function_id":"u32_aligned_down","value_str":null,"throughput":{"Elements":5000},"full_id":"try-alloc/u32_aligned_down","directory_name":"try-alloc/u32_aligned_down","title":"try-alloc/u32_aligned_down"}

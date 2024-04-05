@@ -1,1 +1,1 @@
-{"group_id":"try-alloc-with","function_id":"u8_bumpalo","value_str":null,"throughput":{"Elements":10000},"full_id":"try-alloc-with/u8_bumpalo","directory_name":"try-alloc-with/u8_bumpalo","title":"try-alloc-with/u8_bumpalo"}
+{"group_id":"try-alloc-with","function_id":"u8_bumpalo","value_str":null,"throughput":{"Elements":5000},"full_id":"try-alloc-with/u8_bumpalo","directory_name":"try-alloc-with/u8_bumpalo","title":"try-alloc-with/u8_bumpalo"}

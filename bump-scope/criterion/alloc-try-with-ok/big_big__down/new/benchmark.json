@@ -1,1 +1,1 @@
-{"group_id":"alloc-try-with-ok","function_id":"big_big__down","value_str":null,"throughput":{"Elements":10000},"full_id":"alloc-try-with-ok/big_big__down","directory_name":"alloc-try-with-ok/big_big__down","title":"alloc-try-with-ok/big_big__down"}
+{"group_id":"alloc-try-with-ok","function_id":"big_big__down","value_str":null,"throughput":{"Elements":5000},"full_id":"alloc-try-with-ok/big_big__down","directory_name":"alloc-try-with-ok/big_big__down","title":"alloc-try-with-ok/big_big__down"}

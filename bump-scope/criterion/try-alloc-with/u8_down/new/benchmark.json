@@ -1,1 +1,1 @@
-{"group_id":"try-alloc-with","function_id":"u8_down","value_str":null,"throughput":{"Elements":10000},"full_id":"try-alloc-with/u8_down","directory_name":"try-alloc-with/u8_down","title":"try-alloc-with/u8_down"}
+{"group_id":"try-alloc-with","function_id":"u8_down","value_str":null,"throughput":{"Elements":5000},"full_id":"try-alloc-with/u8_down","directory_name":"try-alloc-with/u8_down","title":"try-alloc-with/u8_down"}

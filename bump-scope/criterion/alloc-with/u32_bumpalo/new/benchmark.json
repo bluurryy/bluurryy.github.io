@@ -1,1 +1,1 @@
-{"group_id":"alloc-with","function_id":"u32_bumpalo","value_str":null,"throughput":{"Elements":10000},"full_id":"alloc-with/u32_bumpalo","directory_name":"alloc-with/u32_bumpalo","title":"alloc-with/u32_bumpalo"}
+{"group_id":"alloc-with","function_id":"u32_bumpalo","value_str":null,"throughput":{"Elements":5000},"full_id":"alloc-with/u32_bumpalo","directory_name":"alloc-with/u32_bumpalo","title":"alloc-with/u32_bumpalo"}

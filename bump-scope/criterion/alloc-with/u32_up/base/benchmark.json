@@ -1,1 +1,1 @@
-{"group_id":"alloc-with","function_id":"u32_up","value_str":null,"throughput":{"Elements":10000},"full_id":"alloc-with/u32_up","directory_name":"alloc-with/u32_up","title":"alloc-with/u32_up"}
+{"group_id":"alloc-with","function_id":"u32_up","value_str":null,"throughput":{"Elements":5000},"full_id":"alloc-with/u32_up","directory_name":"alloc-with/u32_up","title":"alloc-with/u32_up"}
