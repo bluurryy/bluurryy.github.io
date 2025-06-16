@@ -1,0 +1,1 @@
+{"group_id":"alloc_u32_try","function_id":"bumpalo_aligned","value_str":null,"throughput":{"Elements":5000},"full_id":"alloc_u32_try/bumpalo_aligned","directory_name":"alloc_u32_try/bumpalo_aligned","title":"alloc_u32_try/bumpalo_aligned"}
